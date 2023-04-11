@@ -36,7 +36,7 @@ from the displot in the dataset there are more data outside jakarta that webpage
 
 The correlation matrix shows the correlation between the numerical variables in the dataset.
 
-![Correlation](/assets/img/correlation.png)
+![Correlation](assets/img/correlation.png)
 
 correlation matrix calculated using pearson method, from the graph we can know that item price has positive correlation between item size, and the item size has positive correlation with total bathroom and the total bathroom has positive correlation item bedrooms. The correlation make sense to say that higher size has higher price, and the higher the size more likely it has more bathroom and bedroom so it make sense if item sice correlated positively to total bathroom and total bedroom. Item bathroom has positive correlation with item total bedrooms, does it means that more bedroom in the house influece the more bathroom within the house? it can be makesense since the more person within the house can more likely that bathroom being used so it needs more bathroom to avoid waiting to enter the bathrooms
 
