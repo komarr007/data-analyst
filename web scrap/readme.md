@@ -20,7 +20,7 @@ The dataset comprises 70 observations and 4 variables. The variables in the data
 
 The pairplot shows the relationship between the numerical variables in the dataset.
 
-![Pairplot](assets\img\pairplot.png)
+![Pairplot](assets/img/pairplot.png)
 
 from the pairplot above the price to be likely had positive correlation againts item size. The exact number correlation can be seen in the correlation section below.
 
@@ -28,7 +28,7 @@ from the pairplot above the price to be likely had positive correlation againts 
 
 The displot shows the distribution of the price variable in the dataset.
 
-![Displot](assets\img\displot.png)
+![Displot](assets/img/displot.png)
 
 from the displot in the dataset there are more data outside jakarta that webpage give in the search of jakarta house are sell, in the dataset for jakarta house are sell had more data in jakarta timur with price 0 to 1.25 Billion indonesia rupiah. 0 price means that the publisher doesnt give the actual price in the webpage, in jakarta selatan the data more distributed with price 0 to 4 Billion indonesia rupiah and the rest jakarta dictrict has small amount of data so i think it is not clear to say if the data assist the actual value of the district.
 
